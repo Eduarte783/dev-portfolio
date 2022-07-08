@@ -1,7 +1,7 @@
 export default function User() {
     return (
         <div>
-            <h1>Hello User</h1>
+            <h1>Hello user!</h1>
         </div>
     )
 }
